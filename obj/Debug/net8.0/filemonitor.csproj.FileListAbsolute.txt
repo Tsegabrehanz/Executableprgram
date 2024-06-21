@@ -1,0 +1,14 @@
+C:\.NET\src\filemonitor\bin\Debug\net8.0\filemonitor.exe
+C:\.NET\src\filemonitor\bin\Debug\net8.0\filemonitor.deps.json
+C:\.NET\src\filemonitor\bin\Debug\net8.0\filemonitor.runtimeconfig.json
+C:\.NET\src\filemonitor\bin\Debug\net8.0\filemonitor.dll
+C:\.NET\src\filemonitor\bin\Debug\net8.0\filemonitor.pdb
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.AssemblyInfoInputs.cache
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.AssemblyInfo.cs
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.csproj.CoreCompileInputs.cache
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.dll
+C:\.NET\src\filemonitor\obj\Debug\net8.0\refint\filemonitor.dll
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.pdb
+C:\.NET\src\filemonitor\obj\Debug\net8.0\filemonitor.genruntimeconfig.cache
+C:\.NET\src\filemonitor\obj\Debug\net8.0\ref\filemonitor.dll
